@@ -27,15 +27,9 @@ Passionate developer committed to building impactful software and contributing t
 
 **Focus:** Full-Stack Development, Problem Solving, Code Quality
 
-## 📚 Featured Projects
-
-- **[Project Name](link)** - Brief description
-- **[Another Project](link)** - What makes it interesting
-- **[Third Project](link)** - Key achievement
 
 ## 🤝 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
 - 📧 Email: narasimha.vijay2001@gmail.com
 
 ## 💬 Open To
